@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Learning Git 
+- Learning Github
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Pull Request
+- Merge Code
 
 ## Getting started
 
